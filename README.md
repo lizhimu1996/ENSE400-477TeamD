@@ -14,9 +14,9 @@ Christine Chan, Craig M. Gelowitz, Yasser Morgan
 
 ## Final Demo
 <p><a href="https://www.youtube.com/watch?v=qaJawh85E8M"><img width="725" alt="截屏2023-04-07 下午7 04 14" src="https://user-images.githubusercontent.com/90786844/230696784-07bb9a44-f5aa-49de-a77b-bcc47d45a18a.png"></a></p>
+
+
 ## Poster
-
-
 ![poster1024_1](https://user-images.githubusercontent.com/90786844/230565834-66d45711-b2d4-41e1-b5fc-f472624afe1b.jpg)
 
 ## Final Report
