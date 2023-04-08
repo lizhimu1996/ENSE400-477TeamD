@@ -13,7 +13,7 @@ Christine Chan, Craig M. Gelowitz, Yasser Morgan
 
 
 ## Final Demo
-video
+<p><a href="https://youtu.be/Km3WFFVw96k"></a></p>
 ## Poster
 
 
